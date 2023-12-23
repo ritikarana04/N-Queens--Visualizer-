@@ -6,4 +6,4 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
-
+https://ritikarana04.github.io/N-Queens--Visualizer-/
