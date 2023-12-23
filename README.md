@@ -6,4 +6,4 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
-https://ritikarana04.github.io/N-Queens--Visualizer-/
+**<p align='center'>You can find the website live <a href="https://ritikarana04.github.io/N-Queens--Visualizer-/">here</a></p>**
